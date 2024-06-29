@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Segurança dos iframes</title>
+</head>
+<body>
+    <h1>Desabilitando Scripts de um iframe</h1>
+
+    <p><code><strong>Utilizando o atributo sandbox="" com o valor sandbox (<span style="color: red;">sandbox="sandbox"</span>) conseguimos barrar ações potencialmente maliciosas para o usuário.</strong></code></p>
+    <p><code><strong>Utilizando <span style="color: red;">referrerpolicy="no-refer-when-downgrade"</span>  conseguimos barrar ações potencialmente maliciosas para o usuário.</strong></code></p>
+
+    <iframe src="teste003.html" frameborder="0" referrerpolicy="no-refer" sandbox="sandbox">
+        <p>Infelizmente o seu navegador não é compatível com isso!</p>
+    </iframe>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, qui at distinctio error dolorum tenetur. Ea quo ab tempora distinctio.</p>
+</body>
+</html>
