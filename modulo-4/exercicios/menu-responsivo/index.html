@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu Responsivo</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="estilos/style.css">
+    <link rel="stylesheet" href="estilos/media-query.css">
+</head>
+<body>
+    <header>
+        <h1>Meu Site</h1>
+        <span id="burguer" class="material-icons" onclick="clickMenu()">menu</span>
+        <nav id="itens">
+            <ul>
+                <li><a href="#">Opção 1</a></li>
+                <li><a href="#">Opção 2</a></li>
+                <li><a href="#">Opção 3</a></li>
+                <li><a href="#">Opção 4</a></li>
+                <li><a href="#">Opção 5</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <article>
+            <h1>Testando Media Queries</h1>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laudantium provident aliquam dignissimos aspernatur! Excepturi, sequi rerum obcaecati dolor commodi temporibus?</p> 
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laudantium provident aliquam dignissimos aspernatur! Excepturi, sequi rerum obcaecati dolor commodi temporibus?</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laudantium provident aliquam dignissimos aspernatur! Excepturi, sequi rerum obcaecati dolor commodi temporibus?</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laudantium provident aliquam dignissimos aspernatur! Excepturi, sequi rerum obcaecati dolor commodi temporibus?</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laudantium provident aliquam dignissimos aspernatur! Excepturi, sequi rerum obcaecati dolor commodi temporibus?</p>
+        </article>
+    </main>
+
+    <script>
+        function clickMenu(){
+            if(itens.style.display == 'block'){
+                itens.style.display = 'none'
+            }else{
+                itens.style.display = 'block'
+            }
+        }
+    </script>
+
+</body>
+</html>
