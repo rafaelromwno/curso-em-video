@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\curso-em-video-poo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF261245-8F17-404A-9935-F02D7730D7F4}|projeto-yt\\projeto-yt.csproj|c:\\users\\usuario\\source\\repos\\curso-em-video-poo\\projeto-yt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF261245-8F17-404A-9935-F02D7730D7F4}|projeto-yt\\projeto-yt.csproj|solutionrelative:projeto-yt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF261245-8F17-404A-9935-F02D7730D7F4}|projeto-yt\\projeto-yt.csproj|c:\\users\\usuario\\source\\repos\\curso-em-video-poo\\projeto-yt\\acoesvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF261245-8F17-404A-9935-F02D7730D7F4}|projeto-yt\\projeto-yt.csproj|solutionrelative:projeto-yt\\acoesvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF261245-8F17-404A-9935-F02D7730D7F4}|projeto-yt\\projeto-yt.csproj|c:\\users\\usuario\\source\\repos\\curso-em-video-poo\\projeto-yt\\visualizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF261245-8F17-404A-9935-F02D7730D7F4}|projeto-yt\\projeto-yt.csproj|solutionrelative:projeto-yt\\visualizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF261245-8F17-404A-9935-F02D7730D7F4}|projeto-yt\\projeto-yt.csproj|c:\\users\\usuario\\source\\repos\\curso-em-video-poo\\projeto-yt\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF261245-8F17-404A-9935-F02D7730D7F4}|projeto-yt\\projeto-yt.csproj|solutionrelative:projeto-yt\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF261245-8F17-404A-9935-F02D7730D7F4}|projeto-yt\\projeto-yt.csproj|c:\\users\\usuario\\source\\repos\\curso-em-video-poo\\projeto-yt\\gafanhoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF261245-8F17-404A-9935-F02D7730D7F4}|projeto-yt\\projeto-yt.csproj|solutionrelative:projeto-yt\\gafanhoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF261245-8F17-404A-9935-F02D7730D7F4}|projeto-yt\\projeto-yt.csproj|c:\\users\\usuario\\source\\repos\\curso-em-video-poo\\projeto-yt\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF261245-8F17-404A-9935-F02D7730D7F4}|projeto-yt\\projeto-yt.csproj|solutionrelative:projeto-yt\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Visualizacao.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\curso-em-video-poo\\projeto-yt\\Visualizacao.cs",
+              "RelativeDocumentMoniker": "projeto-yt\\Visualizacao.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\curso-em-video-poo\\projeto-yt\\Visualizacao.cs",
+              "RelativeToolTip": "projeto-yt\\Visualizacao.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA9wD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:09:19.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gafanhoto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\curso-em-video-poo\\projeto-yt\\Gafanhoto.cs",
+              "RelativeDocumentMoniker": "projeto-yt\\Gafanhoto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\curso-em-video-poo\\projeto-yt\\Gafanhoto.cs",
+              "RelativeToolTip": "projeto-yt\\Gafanhoto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T19:35:01.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\curso-em-video-poo\\projeto-yt\\Pessoa.cs",
+              "RelativeDocumentMoniker": "projeto-yt\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\curso-em-video-poo\\projeto-yt\\Pessoa.cs",
+              "RelativeToolTip": "projeto-yt\\Pessoa.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA4wCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T19:30:51.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\curso-em-video-poo\\projeto-yt\\Video.cs",
+              "RelativeDocumentMoniker": "projeto-yt\\Video.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\curso-em-video-poo\\projeto-yt\\Video.cs",
+              "RelativeToolTip": "projeto-yt\\Video.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T18:52:17.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AcoesVideo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\curso-em-video-poo\\projeto-yt\\AcoesVideo.cs",
+              "RelativeDocumentMoniker": "projeto-yt\\AcoesVideo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\curso-em-video-poo\\projeto-yt\\AcoesVideo.cs",
+              "RelativeToolTip": "projeto-yt\\AcoesVideo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T18:49:46.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\curso-em-video-poo\\projeto-yt\\Program.cs",
+              "RelativeDocumentMoniker": "projeto-yt\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\curso-em-video-poo\\projeto-yt\\Program.cs",
+              "RelativeToolTip": "projeto-yt\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T18:36:52.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
