@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio07 - matriz\bin\Debug\net6.0\exercicio07 -matrizes.exe
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio07 - matriz\bin\Debug\net6.0\exercicio07 -matrizes.deps.json
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio07 - matriz\bin\Debug\net6.0\exercicio07 -matrizes.runtimeconfig.json
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio07 - matriz\bin\Debug\net6.0\exercicio07 -matrizes.dll
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio07 - matriz\bin\Debug\net6.0\exercicio07 -matrizes.pdb
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio07 - matriz\obj\Debug\net6.0\exercicio07 -matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio07 - matriz\obj\Debug\net6.0\exercicio07 -matrizes.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio07 - matriz\obj\Debug\net6.0\exercicio07 -matrizes.AssemblyInfo.cs
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio07 - matriz\obj\Debug\net6.0\exercicio07 -matrizes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio07 - matriz\obj\Debug\net6.0\exercicio07 -matrizes.sourcelink.json
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio07 - matriz\obj\Debug\net6.0\exercicio07 -matrizes.dll
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio07 - matriz\obj\Debug\net6.0\refint\exercicio07 -matrizes.dll
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio07 - matriz\obj\Debug\net6.0\exercicio07 -matrizes.pdb
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio07 - matriz\obj\Debug\net6.0\exercicio07 -matrizes.genruntimeconfig.cache
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio07 - matriz\obj\Debug\net6.0\ref\exercicio07 -matrizes.dll

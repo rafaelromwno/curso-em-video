@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio03 - matrizes\bin\Debug\net6.0\exercicio03 - matrizes.exe
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio03 - matrizes\bin\Debug\net6.0\exercicio03 - matrizes.deps.json
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio03 - matrizes\bin\Debug\net6.0\exercicio03 - matrizes.runtimeconfig.json
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio03 - matrizes\bin\Debug\net6.0\exercicio03 - matrizes.dll
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio03 - matrizes\bin\Debug\net6.0\exercicio03 - matrizes.pdb
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio03 - matrizes\obj\Debug\net6.0\exercicio03 - matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio03 - matrizes\obj\Debug\net6.0\exercicio03 - matrizes.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio03 - matrizes\obj\Debug\net6.0\exercicio03 - matrizes.AssemblyInfo.cs
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio03 - matrizes\obj\Debug\net6.0\exercicio03 - matrizes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio03 - matrizes\obj\Debug\net6.0\exercicio03 - matrizes.sourcelink.json
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio03 - matrizes\obj\Debug\net6.0\exercicio03 - matrizes.dll
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio03 - matrizes\obj\Debug\net6.0\refint\exercicio03 - matrizes.dll
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio03 - matrizes\obj\Debug\net6.0\exercicio03 - matrizes.pdb
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio03 - matrizes\obj\Debug\net6.0\exercicio03 - matrizes.genruntimeconfig.cache
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\exercicios-poo\exercicio03 - matrizes\obj\Debug\net6.0\ref\exercicio03 - matrizes.dll

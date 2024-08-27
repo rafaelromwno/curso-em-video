@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Downloads\\POO - curso em video\\cursoemvideo-POO\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\exercicios-poo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FAA49E-CE06-436E-9DD5-EE580C4C3343}|exercicio07 - matriz\\exercicio07 -matrizes.csproj|c:\\users\\usuario\\documents\\git hub\\curso-em-video\\poo - c#\\exercicios-poo\\exercicio07 - matriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FAA49E-CE06-436E-9DD5-EE580C4C3343}|exercicio07 - matriz\\exercicio07 -matrizes.csproj|solutionrelative:exercicio07 - matriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\exercicios-poo\\exercicio07 - matriz\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio07 - matriz\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\exercicios-poo\\exercicio07 - matriz\\Program.cs",
+              "RelativeToolTip": "exercicio07 - matriz\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:09:28.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

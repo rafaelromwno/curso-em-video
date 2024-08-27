@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Downloads\\POO - curso em video\\cursoemvideo-POO\\exercicio01\\exercicio01.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\exercicios-poo\\exercicio01\\exercicio01.csproj",
       "projectName": "exercicio01",
-      "projectPath": "C:\\Users\\Usuario\\Downloads\\POO - curso em video\\cursoemvideo-POO\\exercicio01\\exercicio01.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\exercicios-poo\\exercicio01\\exercicio01.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Downloads\\POO - curso em video\\cursoemvideo-POO\\exercicio01\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\exercicios-poo\\exercicio01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
