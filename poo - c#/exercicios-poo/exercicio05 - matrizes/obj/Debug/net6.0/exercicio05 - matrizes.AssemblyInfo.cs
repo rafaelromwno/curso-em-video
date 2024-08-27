@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exercicio05 - matrizes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f96ab4682ab595441e1da71f871e9b97a18ff9fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d541feaf6b791ad98f4c48e327afa4abb9c7cd28")]
 [assembly: System.Reflection.AssemblyProductAttribute("exercicio05 - matrizes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exercicio05 - matrizes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
