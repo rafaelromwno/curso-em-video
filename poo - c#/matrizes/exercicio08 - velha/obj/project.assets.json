@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\exercicios-poo\\exercicio08 - velha\\exercicio08 - velha.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\matrizes\\exercicio08 - velha\\exercicio08 - velha.csproj",
       "projectName": "exercicio08 - velha",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\exercicios-poo\\exercicio08 - velha\\exercicio08 - velha.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\matrizes\\exercicio08 - velha\\exercicio08 - velha.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\exercicios-poo\\exercicio08 - velha\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\matrizes\\exercicio08 - velha\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\exercicios-poo\\exercicio06 - matrizes\\exercicio06 - matrizes.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\matrizes\\exercicio06 - matrizes\\exercicio06 - matrizes.csproj",
       "projectName": "exercicio06 - matrizes",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\exercicios-poo\\exercicio06 - matrizes\\exercicio06 - matrizes.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\matrizes\\exercicio06 - matrizes\\exercicio06 - matrizes.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\exercicios-poo\\exercicio06 - matrizes\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\matrizes\\exercicio06 - matrizes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

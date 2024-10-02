@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\exercicios-poo\\exercicio02\\exercicio02.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\matrizes\\exercicio02\\exercicio02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\exercicios-poo\\exercicio02\\exercicio02.csproj": {
+    "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\matrizes\\exercicio02\\exercicio02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\exercicios-poo\\exercicio02\\exercicio02.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\matrizes\\exercicio02\\exercicio02.csproj",
         "projectName": "exercicio02",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\exercicios-poo\\exercicio02\\exercicio02.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\matrizes\\exercicio02\\exercicio02.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\exercicios-poo\\exercicio02\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\matrizes\\exercicio02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

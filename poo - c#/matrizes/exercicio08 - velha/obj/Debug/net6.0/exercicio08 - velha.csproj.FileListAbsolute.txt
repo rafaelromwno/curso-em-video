@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\matrizes\exercicio08 - velha\bin\Debug\net6.0\exercicio08 - velha.exe
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\matrizes\exercicio08 - velha\bin\Debug\net6.0\exercicio08 - velha.deps.json
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\matrizes\exercicio08 - velha\bin\Debug\net6.0\exercicio08 - velha.runtimeconfig.json
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\matrizes\exercicio08 - velha\bin\Debug\net6.0\exercicio08 - velha.dll
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\matrizes\exercicio08 - velha\bin\Debug\net6.0\exercicio08 - velha.pdb
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\matrizes\exercicio08 - velha\obj\Debug\net6.0\exercicio08 - velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\matrizes\exercicio08 - velha\obj\Debug\net6.0\exercicio08 - velha.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\matrizes\exercicio08 - velha\obj\Debug\net6.0\exercicio08 - velha.AssemblyInfo.cs
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\matrizes\exercicio08 - velha\obj\Debug\net6.0\exercicio08 - velha.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\matrizes\exercicio08 - velha\obj\Debug\net6.0\exercicio08 - velha.sourcelink.json
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\matrizes\exercicio08 - velha\obj\Debug\net6.0\exercicio08 - velha.dll
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\matrizes\exercicio08 - velha\obj\Debug\net6.0\refint\exercicio08 - velha.dll
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\matrizes\exercicio08 - velha\obj\Debug\net6.0\exercicio08 - velha.pdb
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\matrizes\exercicio08 - velha\obj\Debug\net6.0\exercicio08 - velha.genruntimeconfig.cache
+C:\Users\Usuario\Documents\git hub\curso-em-video\poo - c#\matrizes\exercicio08 - velha\obj\Debug\net6.0\ref\exercicio08 - velha.dll

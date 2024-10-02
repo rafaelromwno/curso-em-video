@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\exercicios-poo\\exercicio05 - matrizes\\exercicio05 - matrizes.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\matrizes\\exercicio05 - matrizes\\exercicio05 - matrizes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\exercicios-poo\\exercicio05 - matrizes\\exercicio05 - matrizes.csproj": {
+    "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\matrizes\\exercicio05 - matrizes\\exercicio05 - matrizes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\exercicios-poo\\exercicio05 - matrizes\\exercicio05 - matrizes.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\matrizes\\exercicio05 - matrizes\\exercicio05 - matrizes.csproj",
         "projectName": "exercicio05 - matrizes",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\exercicios-poo\\exercicio05 - matrizes\\exercicio05 - matrizes.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\matrizes\\exercicio05 - matrizes\\exercicio05 - matrizes.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\exercicios-poo\\exercicio05 - matrizes\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\git hub\\curso-em-video\\poo - c#\\matrizes\\exercicio05 - matrizes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
